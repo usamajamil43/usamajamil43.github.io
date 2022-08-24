@@ -1,0 +1,30 @@
+{
+  "recipes": [{
+  "name": "Omelette"
+            },
+  {
+  "name": "Half Fry"
+},
+{
+  "name":"Scrambled"
+}
+
+  ],
+"ingredients": [{
+  "recipe": "Omelette",
+  "name": "Egg",
+  "quantity": 2
+},
+{
+  "recipe": "Half Fry",
+  "name": "Egg",
+  "quantity": 1
+},
+{
+  "recipe": "Scrambled",
+  "name": "Egg",
+  "quantity": 2
+}
+
+            ]
+              }
